@@ -38,6 +38,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"menuMusic","path":"sounds/menuMusic/menuMusic.yy",},},
     {"id":{"name":"playSound","path":"sounds/playSound/playSound.yy",},},
+    {"id":{"name":"_8e5e1398_b6ee_48fe_94a7_0807cb1375fc","path":"sprites/_8e5e1398_b6ee_48fe_94a7_0807cb1375fc/_8e5e1398_b6ee_48fe_94a7_0807cb1375fc.yy",},},
     {"id":{"name":"sMenuBackground","path":"sprites/sMenuBackground/sMenuBackground.yy",},},
     {"id":{"name":"sMenuButton","path":"sprites/sMenuButton/sMenuButton.yy",},},
     {"id":{"name":"sMenuTitle","path":"sprites/sMenuTitle/sMenuTitle.yy",},},
