@@ -6,4 +6,3 @@ if((keyboard_check(vk_up) || keyboard_check(ord("W")))){
 }else{
 	if(sprite_index != sCharacter_B)  sprite_index = sCharacter_B;
 }
-
