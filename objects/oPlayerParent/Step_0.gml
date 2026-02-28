@@ -37,3 +37,8 @@ if(place_meeting(x, y, oCollide)){
 	}
 }
 
+move_and_collide(x_speed, y_speed, oKamenPodVodou3);
+move_and_collide(x_speed, y_speed, oKamenPodVodou4);
+move_and_collide(x_speed, y_speed, oPodVodouKamen2);
+move_and_collide(x_speed, y_speed, oStone);
+move_and_collide(x_speed, y_speed, oStone_ubder);

@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oStone",
+  "%Name":"Object28",
   "eventList":[],
   "managed":true,
-  "name":"oStone",
+  "name":"Object28",
   "overriddenProperties":[],
   "parent":{
-    "name":"Blocks",
-    "path":"folders/Objects/Blocks.yy",
+    "name":"Managers",
+    "path":"folders/Objects/Managers.yy",
   },
-  "parentObjectId":{
-    "name":"oCollide",
-    "path":"objects/oCollide/oCollide.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -29,11 +26,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"sStone",
-    "path":"sprites/sStone/sStone.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

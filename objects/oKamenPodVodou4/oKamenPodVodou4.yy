@@ -26,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"sKamenPodVodou4",
     "path":"sprites/sKamenPodVodou4/sKamenPodVodou4.yy",
