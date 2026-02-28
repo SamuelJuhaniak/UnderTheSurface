@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oStone",
-  "eventList":[],
+  "%Name":"oPlayer_B",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oStone",
+  "name":"oPlayer_B",
   "overriddenProperties":[],
   "parent":{
-    "name":"Blocks",
-    "path":"folders/Objects/Blocks.yy",
+    "name":"Entities",
+    "path":"folders/Objects/Entities.yy",
   },
-  "parentObjectId":{
-    "name":"oCollide",
-    "path":"objects/oCollide/oCollide.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sStone",
-    "path":"sprites/sStone/sStone.yy",
+    "name":"sCharacter_B",
+    "path":"sprites/sCharacter_B/sCharacter_B.yy",
   },
   "spriteMaskId":null,
   "visible":true,

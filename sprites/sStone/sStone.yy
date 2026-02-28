@@ -1,7 +1,7 @@
 {
   "$GMSprite":"v2",
   "%Name":"sStone",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":14,
   "bbox_left":1,
   "bbox_right":14,
