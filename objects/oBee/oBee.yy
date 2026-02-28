@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oDog2",
+  "%Name":"oBee",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oDog2",
+  "name":"oBee",
   "overriddenProperties":[],
   "parent":{
     "name":"Entities",
@@ -31,9 +30,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sDog2",
-    "path":"sprites/sDog2/sDog2.yy",
+    "name":"sBee",
+    "path":"sprites/sBee/sBee.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"sBee",
+    "path":"sprites/sBee/sBee.yy",
+  },
   "visible":true,
 }
