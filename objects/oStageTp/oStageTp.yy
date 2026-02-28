@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oDog2",
+  "%Name":"oStageTp",
   "eventList":[],
   "managed":true,
-  "name":"oDog2",
+  "name":"oStageTp",
   "overriddenProperties":[],
   "parent":{
-    "name":"Entities",
-    "path":"folders/Objects/Entities.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sDog2",
-    "path":"sprites/sDog2/sDog2.yy",
+    "name":"sNoithing",
+    "path":"sprites/sNoithing/sNoithing.yy",
   },
   "spriteMaskId":null,
   "visible":true,
