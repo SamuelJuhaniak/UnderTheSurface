@@ -65,6 +65,7 @@
     {"id":{"name":"sDog2_Zraneny","path":"sprites/sDog2_Zraneny/sDog2_Zraneny.yy",},},
     {"id":{"name":"sDog2","path":"sprites/sDog2/sDog2.yy",},},
     {"id":{"name":"sForest","path":"sprites/sForest/sForest.yy",},},
+    {"id":{"name":"sLog","path":"sprites/sLog/sLog.yy",},},
     {"id":{"name":"sMenuBackground","path":"sprites/sMenuBackground/sMenuBackground.yy",},},
     {"id":{"name":"sMenuButton","path":"sprites/sMenuButton/sMenuButton.yy",},},
     {"id":{"name":"sMenuTitle","path":"sprites/sMenuTitle/sMenuTitle.yy",},},
