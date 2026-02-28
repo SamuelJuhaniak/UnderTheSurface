@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"oCameraManager",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oPonorka",
+  "eventList":[],
   "managed":true,
-  "name":"oCameraManager",
+  "name":"oPonorka",
   "overriddenProperties":[],
   "parent":{
-    "name":"Managers",
-    "path":"folders/Objects/Managers.yy",
+    "name":"Entities",
+    "path":"folders/Objects/Entities.yy",
   },
-  "parentObjectId":null,
-  "persistent":true,
+  "parentObjectId":{
+    "name":"oPlayerParent",
+    "path":"objects/oPlayerParent/oPlayerParent.yy",
+  },
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sPonorka",
+    "path":"sprites/sPonorka/sPonorka.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
