@@ -35,6 +35,7 @@
     {"id":{"name":"oMenuQuitButton","path":"objects/oMenuQuitButton/oMenuQuitButton.yy",},},
     {"id":{"name":"oMenuTitle","path":"objects/oMenuTitle/oMenuTitle.yy",},},
     {"id":{"name":"oMusicManager","path":"objects/oMusicManager/oMusicManager.yy",},},
+    {"id":{"name":"oStone","path":"objects/oStone/oStone.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
     {"id":{"name":"menuMusic","path":"sounds/menuMusic/menuMusic.yy",},},
