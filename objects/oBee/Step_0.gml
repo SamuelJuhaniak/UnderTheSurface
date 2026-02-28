@@ -6,9 +6,9 @@ else {
 }
 
 if (follow_player) {
-	if(!(oPlayer_H.x >= 320)){
-		move_towards_point(oPlayer_H.x,oPlayer_H.y,0.5);
+	if(!(oPlayer_H.x >= 620)){
+		move_towards_point(oPlayer_H.x,oPlayer_H.y,0.60);
 	}else{
-		move_towards_point(oPlayer_H.x,oPlayer_H.y,2);
+		move_towards_point(oPlayer_H.x,oPlayer_H.y,1.5);
 	}
 }
