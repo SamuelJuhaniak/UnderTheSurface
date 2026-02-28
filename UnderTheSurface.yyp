@@ -62,6 +62,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
     {"id":{"name":"Stage_H","path":"rooms/Stage_H/Stage_H.yy",},},
+    {"id":{"name":"Stage_Victory","path":"rooms/Stage_Victory/Stage_Victory.yy",},},
     {"id":{"name":"Stage_W","path":"rooms/Stage_W/Stage_W.yy",},},
     {"id":{"name":"StagePicker","path":"rooms/StagePicker/StagePicker.yy",},},
     {"id":{"name":"scEffects","path":"scripts/scEffects/scEffects.yy",},},
@@ -95,6 +96,7 @@
     {"id":{"name":"sStalaktit","path":"sprites/sStalaktit/sStalaktit.yy",},},
     {"id":{"name":"sStone","path":"sprites/sStone/sStone.yy",},},
     {"id":{"name":"sVine","path":"sprites/sVine/sVine.yy",},},
+    {"id":{"name":"sVnutro","path":"sprites/sVnutro/sVnutro.yy",},},
     {"id":{"name":"sWaterBackground","path":"sprites/sWaterBackground/sWaterBackground.yy",},},
     {"id":{"name":"sWaterBackground16","path":"sprites/sWaterBackground16/sWaterBackground16.yy",},},
   ],
@@ -108,6 +110,7 @@
     {"roomId":{"name":"StagePicker","path":"rooms/StagePicker/StagePicker.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Stage_W","path":"rooms/Stage_W/Stage_W.yy",},},
+    {"roomId":{"name":"Stage_Victory","path":"rooms/Stage_Victory/Stage_Victory.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
