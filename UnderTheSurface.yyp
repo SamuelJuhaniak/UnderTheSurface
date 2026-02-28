@@ -36,10 +36,12 @@
     {"id":{"name":"oMenuTitle","path":"objects/oMenuTitle/oMenuTitle.yy",},},
     {"id":{"name":"oMusicManager","path":"objects/oMusicManager/oMusicManager.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"id":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
     {"id":{"name":"menuMusic","path":"sounds/menuMusic/menuMusic.yy",},},
     {"id":{"name":"playSound","path":"sounds/playSound/playSound.yy",},},
     {"id":{"name":"sBee","path":"sprites/sBee/sBee.yy",},},
     {"id":{"name":"sBlockPodVodou","path":"sprites/sBlockPodVodou/sBlockPodVodou.yy",},},
+    {"id":{"name":"sCharacter_B","path":"sprites/sCharacter_B/sCharacter_B.yy",},},
     {"id":{"name":"sDog","path":"sprites/sDog/sDog.yy",},},
     {"id":{"name":"sDog2_Zraneny","path":"sprites/sDog2_Zraneny/sDog2_Zraneny.yy",},},
     {"id":{"name":"sDog2","path":"sprites/sDog2/sDog2.yy",},},
@@ -56,6 +58,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
