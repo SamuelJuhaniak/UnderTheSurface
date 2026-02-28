@@ -61,6 +61,8 @@
     {"id":{"name":"sSpider","path":"sprites/sSpider/sSpider.yy",},},
     {"id":{"name":"sStalaktit","path":"sprites/sStalaktit/sStalaktit.yy",},},
     {"id":{"name":"sStone","path":"sprites/sStone/sStone.yy",},},
+    {"id":{"name":"sWaterBackground","path":"sprites/sWaterBackground/sWaterBackground.yy",},},
+    {"id":{"name":"sWaterBackground16","path":"sprites/sWaterBackground16/sWaterBackground16.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
