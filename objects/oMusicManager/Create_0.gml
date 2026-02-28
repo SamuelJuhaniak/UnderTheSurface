@@ -1,1 +1,3 @@
-musicPlay = noone;
+
+musicPlay = [];
+musicPlay[0] = noone;
