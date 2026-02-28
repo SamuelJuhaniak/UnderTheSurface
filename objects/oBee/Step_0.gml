@@ -1,4 +1,4 @@
-if (instance_exists(oPlayer_B)) {
+if (instance_exists(oPlayer_H)) {
   follow_player = true;
 }
 else {
@@ -6,5 +6,9 @@ else {
 }
 
 if (follow_player) {
-  move_towards_point(oPlayer_B.x,oPlayer_B.y,1.5);
+	if(!(oPlayer_H.x >= 320)){
+		move_towards_point(oPlayer_H.x,oPlayer_H.y,0.5);
+	}else{
+		move_towards_point(oPlayer_H.x,oPlayer_H.y,2);
+	}
 }
