@@ -2,3 +2,5 @@
 event_inherited();
 
 oMusicManager.musicPlay = [playSound, 1, false]
+
+room_goto(SubmarineGoingDown)
