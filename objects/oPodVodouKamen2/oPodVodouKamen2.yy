@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oStageTp",
+  "%Name":"oPodVodouKamen2",
   "eventList":[],
   "managed":true,
-  "name":"oStageTp",
+  "name":"oPodVodouKamen2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Blocks",
+    "path":"folders/Objects/Blocks.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sPodVodouKamen2",
+    "path":"sprites/sPodVodouKamen2/sPodVodouKamen2.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
