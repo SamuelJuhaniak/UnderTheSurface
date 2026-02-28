@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sBarrier",
-    "path":"sprites/sBarrier/sBarrier.yy",
+    "name":"sNoithing",
+    "path":"sprites/sNoithing/sNoithing.yy",
   },
   "spriteMaskId":null,
   "visible":true,
