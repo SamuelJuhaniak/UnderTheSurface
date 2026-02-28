@@ -31,10 +31,12 @@
   "resources":[
     {"id":{"name":"ButtonFont","path":"fonts/ButtonFont/ButtonFont.yy",},},
     {"id":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},},
+    {"id":{"name":"oGameManager","path":"objects/oGameManager/oGameManager.yy",},},
     {"id":{"name":"oMenuPlayButton","path":"objects/oMenuPlayButton/oMenuPlayButton.yy",},},
     {"id":{"name":"oMenuQuitButton","path":"objects/oMenuQuitButton/oMenuQuitButton.yy",},},
     {"id":{"name":"oMenuTitle","path":"objects/oMenuTitle/oMenuTitle.yy",},},
     {"id":{"name":"oMusicManager","path":"objects/oMusicManager/oMusicManager.yy",},},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
     {"id":{"name":"menuMusic","path":"sounds/menuMusic/menuMusic.yy",},},
