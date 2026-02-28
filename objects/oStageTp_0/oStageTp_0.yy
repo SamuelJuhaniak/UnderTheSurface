@@ -1,16 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oStageTp",
-  "eventList":[],
+  "%Name":"oStageTp_0",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oPonorka","path":"objects/oPonorka/oPonorka.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oStageTp",
+  "name":"oStageTp_0",
   "overriddenProperties":[],
   "parent":{
-    "name":"Managers",
-    "path":"folders/Objects/Managers.yy",
+    "name":"StageTps",
+    "path":"folders/Objects/Managers/StageTps.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sStageTp",
+    "path":"sprites/sStageTp/sStageTp.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
