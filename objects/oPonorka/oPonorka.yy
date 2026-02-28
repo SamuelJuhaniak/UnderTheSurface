@@ -6,6 +6,7 @@
   "name":"oPonorka",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oPlayerParent","path":"objects/oPlayerParent/oPlayerParent.yy",},"propertyId":{"name":"isPonorka","path":"objects/oPlayerParent/oPlayerParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"True",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oPlayerParent","path":"objects/oPlayerParent/oPlayerParent.yy",},"propertyId":{"name":"movementSpeed","path":"objects/oPlayerParent/oPlayerParent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.6",},
   ],
   "parent":{
     "name":"Entities",
