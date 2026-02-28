@@ -169,6 +169,7 @@
     {"name":"inst_4F84A95E","path":"rooms/Stage_H/Stage_H.yy",},
     {"name":"inst_5C4EC0E0","path":"rooms/Stage_H/Stage_H.yy",},
     {"name":"inst_7F510930","path":"rooms/Stage_H/Stage_H.yy",},
+    {"name":"inst_5174AAE6","path":"rooms/Stage_H/Stage_H.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -336,6 +337,7 @@
         {"$GMRInstance":"v4","%Name":"inst_4F84A95E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4F84A95E","objectId":{"name":"oWoodenLog","path":"objects/oWoodenLog/oWoodenLog.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":272.0,},
         {"$GMRInstance":"v4","%Name":"inst_5C4EC0E0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C4EC0E0","objectId":{"name":"oWoodenLog","path":"objects/oWoodenLog/oWoodenLog.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":272.0,},
         {"$GMRInstance":"v4","%Name":"inst_7F510930","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7F510930","objectId":{"name":"oWoodenLog","path":"objects/oWoodenLog/oWoodenLog.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":752.0,"y":208.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5174AAE6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5174AAE6","objectId":{"name":"StageOff_2","path":"objects/StageOff_2/StageOff_2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":2.25,"x":992.0,"y":176.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sForest","path":"sprites/sForest/sForest.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
