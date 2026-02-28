@@ -79,6 +79,7 @@
     {"id":{"name":"playSound","path":"sounds/playSound/playSound.yy",},},
     {"id":{"name":"sBee","path":"sprites/sBee/sBee.yy",},},
     {"id":{"name":"sBlockPodVodou","path":"sprites/sBlockPodVodou/sBlockPodVodou.yy",},},
+    {"id":{"name":"sBubble","path":"sprites/sBubble/sBubble.yy",},},
     {"id":{"name":"sCharacter_B_Back","path":"sprites/sCharacter_B_Back/sCharacter_B_Back.yy",},},
     {"id":{"name":"sCharacter_B","path":"sprites/sCharacter_B/sCharacter_B.yy",},},
     {"id":{"name":"sChest","path":"sprites/sChest/sChest.yy",},},
