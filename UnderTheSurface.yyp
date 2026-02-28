@@ -46,6 +46,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
     {"id":{"name":"SubmarineGoingDown","path":"rooms/SubmarineGoingDown/SubmarineGoingDown.yy",},},
+    {"id":{"name":"WolfForest","path":"rooms/WolfForest/WolfForest.yy",},},
     {"id":{"name":"menuMusic","path":"sounds/menuMusic/menuMusic.yy",},},
     {"id":{"name":"playSound","path":"sounds/playSound/playSound.yy",},},
     {"id":{"name":"sBarrier","path":"sprites/sBarrier/sBarrier.yy",},},
@@ -55,6 +56,7 @@
     {"id":{"name":"sDog","path":"sprites/sDog/sDog.yy",},},
     {"id":{"name":"sDog2_Zraneny","path":"sprites/sDog2_Zraneny/sDog2_Zraneny.yy",},},
     {"id":{"name":"sDog2","path":"sprites/sDog2/sDog2.yy",},},
+    {"id":{"name":"sForest","path":"sprites/sForest/sForest.yy",},},
     {"id":{"name":"sMenuBackground","path":"sprites/sMenuBackground/sMenuBackground.yy",},},
     {"id":{"name":"sMenuButton","path":"sprites/sMenuButton/sMenuButton.yy",},},
     {"id":{"name":"sMenuTitle","path":"sprites/sMenuTitle/sMenuTitle.yy",},},
@@ -72,6 +74,7 @@
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"SubmarineGoingDown","path":"rooms/SubmarineGoingDown/SubmarineGoingDown.yy",},},
     {"roomId":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
+    {"roomId":{"name":"WolfForest","path":"rooms/WolfForest/WolfForest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
