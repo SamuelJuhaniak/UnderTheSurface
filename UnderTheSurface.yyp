@@ -94,6 +94,7 @@
     {"id":{"name":"sStageTp","path":"sprites/sStageTp/sStageTp.yy",},},
     {"id":{"name":"sStalaktit","path":"sprites/sStalaktit/sStalaktit.yy",},},
     {"id":{"name":"sStone","path":"sprites/sStone/sStone.yy",},},
+    {"id":{"name":"sVine","path":"sprites/sVine/sVine.yy",},},
     {"id":{"name":"sWaterBackground","path":"sprites/sWaterBackground/sWaterBackground.yy",},},
     {"id":{"name":"sWaterBackground16","path":"sprites/sWaterBackground16/sWaterBackground16.yy",},},
   ],
