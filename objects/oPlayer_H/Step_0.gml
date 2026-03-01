@@ -10,7 +10,13 @@ if(!place_meeting(x, y, oWoodenLog)){
 	} else if (keyboard_check(vk_down) || keyboard_check(ord("S"))) {
 		y_speed = movement_speed;
 	}
-}else{room_goto(StagePicker)}
+}else{
+	variable_global_set("currentLevel", 1);
+	variable_global_set("stageCompleted", false);
+	
+    oStageTp_2.canDoStep = true;
+	room_goto(StagePicker)
+	}
 	
 x += movement_speed;	
 y += y_speed;

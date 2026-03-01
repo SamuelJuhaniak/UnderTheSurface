@@ -10,10 +10,12 @@
     {"name":"inst_491E401D","path":"rooms/Menu/Menu.yy",},
     {"name":"inst_123E4BFC","path":"rooms/Menu/Menu.yy",},
     {"name":"inst_647FD6CE","path":"rooms/Menu/Menu.yy",},
+    {"name":"inst_C2DCEE","path":"rooms/Menu/Menu.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v4","%Name":"inst_C2DCEE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_C2DCEE","objectId":{"name":"oGameManager","path":"objects/oGameManager/oGameManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":48.0,},
         {"$GMRInstance":"v4","%Name":"inst_5A958F37","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5A958F37","objectId":{"name":"oMenuPlayButton","path":"objects/oMenuPlayButton/oMenuPlayButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.93333334,"scaleY":0.8,"x":672.0,"y":480.0,},
         {"$GMRInstance":"v4","%Name":"inst_491E401D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_491E401D","objectId":{"name":"oMenuQuitButton","path":"objects/oMenuQuitButton/oMenuQuitButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.76666665,"scaleY":0.7666667,"x":672.0,"y":632.0,},
         {"$GMRInstance":"v4","%Name":"inst_123E4BFC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_123E4BFC","objectId":{"name":"oMusicManager","path":"objects/oMusicManager/oMusicManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":16.0,"y":32.0,},
