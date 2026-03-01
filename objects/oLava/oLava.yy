@@ -10,8 +10,8 @@
   "name":"oLava",
   "overriddenProperties":[],
   "parent":{
-    "name":"FreeClimb",
-    "path":"folders/Objects/FreeClimb.yy",
+    "name":"Lava",
+    "path":"folders/Objects/Lava.yy",
   },
   "parentObjectId":null,
   "persistent":false,
