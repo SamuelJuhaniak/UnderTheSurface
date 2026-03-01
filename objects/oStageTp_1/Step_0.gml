@@ -4,10 +4,9 @@ if(oStageTp_1.canDoStep && instance_exists(oPonorka) && position_meeting(oPonork
 		variable_global_set("currentLevel", 1);
 		//oGameManager.stageCompleted = false;
 		variable_global_set("stageCompleted", false);
-		show_debug_message("01");
 	}else{
-		show_debug_message("02");
-		room_goto(Stage_B);
+		oMusicManager.musicPlay() = [spawnSound, 1, false];
+		alarm[0] = 60;
 	}
 	
 	oStageTp_1.canDoStep = false; 
