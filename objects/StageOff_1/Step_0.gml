@@ -4,7 +4,7 @@ if(instance_exists(oPlayer_B) && position_meeting(oPlayer_B.x, oPlayer_B.y, Stag
 	variable_global_set("currentLevel", 1);
 	variable_global_set("stageCompleted", true);
 
-	screenshake(60, 0, 0)
+	screenshake(60, 0.005, 0)
 	room_goto(StagePicker);
 	
 	oStageTp_1.canDoStep = true; 

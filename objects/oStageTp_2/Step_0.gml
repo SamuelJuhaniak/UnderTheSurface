@@ -6,7 +6,8 @@ if(oStageTp_2.canDoStep && instance_exists(oPonorka) && position_meeting(oPonork
 		variable_global_set("stageCompleted", false)
 	
 	}else{
-		room_goto(Stage_H);
+		oMusicManager.musicPlay = [spawnSound, 1, false];
+		alarm[0] = 60;
 	}
 	
 	oStageTp_2.canDoStep = true;

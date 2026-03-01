@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oTreeClimb",
+  "%Name":"StageOff_3",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oTreeClimb",
+  "name":"StageOff_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"FreeClimb",
-    "path":"folders/Objects/FreeClimb.yy",
+    "name":"StageTps",
+    "path":"folders/Objects/Managers/StageTps.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -31,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sStageTp",
+    "path":"sprites/sStageTp/sStageTp.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
