@@ -65,8 +65,8 @@
     {"id":{"name":"oStageTp_3","path":"objects/oStageTp_3/oStageTp_3.yy",},},
     {"id":{"name":"oStone_ubder","path":"objects/oStone_ubder/oStone_ubder.yy",},},
     {"id":{"name":"oStone","path":"objects/oStone/oStone.yy",},},
-    {"id":{"name":"oVine","path":"objects/oVine/oVine.yy",},},
     {"id":{"name":"oTree","path":"objects/oTree/oTree.yy",},},
+    {"id":{"name":"oVine","path":"objects/oVine/oVine.yy",},},
     {"id":{"name":"oWoodenLog","path":"objects/oWoodenLog/oWoodenLog.yy",},},
     {"id":{"name":"StageOff_1","path":"objects/StageOff_1/StageOff_1.yy",},},
     {"id":{"name":"StageOff_2","path":"objects/StageOff_2/StageOff_2.yy",},},
@@ -129,6 +129,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"StagePicker","path":"rooms/StagePicker/StagePicker.yy",},},
     {"roomId":{"name":"StagePicker","path":"rooms/StagePicker/StagePicker.yy",},},
     {"roomId":{"name":"Stage_B","path":"rooms/Stage_B/Stage_B.yy",},},
