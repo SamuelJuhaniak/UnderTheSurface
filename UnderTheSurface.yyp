@@ -35,6 +35,7 @@
     {"id":{"name":"ButtonFont","path":"fonts/ButtonFont/ButtonFont.yy",},},
     {"id":{"name":"oBarrier","path":"objects/oBarrier/oBarrier.yy",},},
     {"id":{"name":"oBee","path":"objects/oBee/oBee.yy",},},
+    {"id":{"name":"oBubble","path":"objects/oBubble/oBubble.yy",},},
     {"id":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},},
     {"id":{"name":"oCollide","path":"objects/oCollide/oCollide.yy",},},
     {"id":{"name":"oDog2","path":"objects/oDog2/oDog2.yy",},},
