@@ -109,6 +109,7 @@
     {"id":{"name":"sGO_DOWN","path":"sprites/sGO_DOWN/sGO_DOWN.yy",},},
     {"id":{"name":"sKamenPodVodou3","path":"sprites/sKamenPodVodou3/sKamenPodVodou3.yy",},},
     {"id":{"name":"sKamenPodVodou4","path":"sprites/sKamenPodVodou4/sKamenPodVodou4.yy",},},
+    {"id":{"name":"sLava","path":"sprites/sLava/sLava.yy",},},
     {"id":{"name":"sLog","path":"sprites/sLog/sLog.yy",},},
     {"id":{"name":"sMenuBackground","path":"sprites/sMenuBackground/sMenuBackground.yy",},},
     {"id":{"name":"sMenuButton","path":"sprites/sMenuButton/sMenuButton.yy",},},
